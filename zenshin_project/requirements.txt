@@ -1,0 +1,4 @@
+# Ninja Zenshin Tracker - Dependencias
+# El tracker funciona solo con la libreria estandar de Python 3.8+.
+# Pillow es OPCIONAL: solo se necesita para generar imagenes/cartas del ranking.
+Pillow>=9.0.0 ; python_version >= "3.8"
